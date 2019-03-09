@@ -1,10 +1,4 @@
----
-title: 🤓💻 Create a cool Reddit web app in ~20 minutes!
-published: true
-description: We're gonna code a web-page that fetches the images on /r/earthporn and creates a gallery using the pictures.
-tags: #begginer, #webdev, #javascript, #css
-cover_image: https://thepracticaldev.s3.amazonaws.com/i/gwkkvfa04k5tsm99y2bc.jpg
----
+
 #What are we doing? 🤓
 
 In this post, we're going to use Reddit to make a beautiful gallery of landscapes 🏔.
