@@ -1,4 +1,3 @@
-
 #What are we doing? 🤓
 
 In this post, we're going to use Reddit to make a beautiful gallery of landscapes 🏔.
